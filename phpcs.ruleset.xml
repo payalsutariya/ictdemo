@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="Shopware">
-    <description>Shopware Code Style Rules</description>
+<ruleset name="php">
+    <description>php Code Style Rules</description>
     <exclude-pattern>*/vendor/*</exclude-pattern>
     <exclude-pattern>*.js</exclude-pattern>
 
